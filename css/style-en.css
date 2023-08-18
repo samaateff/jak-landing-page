@@ -1,0 +1,26 @@
+body{
+    direction: ltr;
+}
+.main-section{
+    background: url(../images/main-section-img-en.png);
+    background-repeat: round;
+
+}
+.desc-section p {
+    font-size: 26px;
+}
+.spans-ar{
+    display: none;
+}
+.spans-en{
+    display: block;
+}
+footer span:nth-of-type(2),
+footer span:nth-of-type(3){
+    color: #4E4E4E;
+    font-weight: unset;
+}
+footer span:nth-of-type(1){
+    font-weight: bold;
+    color: #81428E;
+}
