@@ -33,6 +33,6 @@ footer span:nth-of-type(1){
 @media (max-width:767px) {
     .desc-section p{
         
-        font-size: 15px;
+        font-size: 20px;
     }
 }
