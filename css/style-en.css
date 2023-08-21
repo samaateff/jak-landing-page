@@ -36,6 +36,6 @@ footer span:nth-of-type(1){
         font-size: 20px;
     }
     .lang-btn {
-        line-height: 1.5;
+        line-height: 0.5;
       }
 }
