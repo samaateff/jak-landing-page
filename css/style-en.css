@@ -15,6 +15,11 @@ body{
 .spans-en{
     display: block;
 }
+.lang-btn{
+
+    line-height: 0.6;
+
+}
 footer span:nth-of-type(2),
 footer span:nth-of-type(3){
     color: #4E4E4E;
