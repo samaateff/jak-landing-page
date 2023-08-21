@@ -13,11 +13,15 @@ a{
     text-decoration: none;
 }
 .main-section{
-    background: url(../images/main-section-img.png) center center no-repeat;
+    /* background: url(../images/main-section-img.png) center center no-repeat; */
     /* background-repeat: round; */
     height: 110vh;
-    background-size: cover;
-    background-color: #84438f;
+    /* background-size: cover; */
+    /* background-color: #84438f; */
+    
+        background: url(../images/main-section-img.png);
+        background-repeat: round;
+    
 }
 
 .bounce {
@@ -255,9 +259,5 @@ margin-top: -1em;
     footer .details-img img{
         margin-top: 2em;
         width: 70%;
-    }
-    .main-section{
-        background-repeat: round;
-       
     }
 }
