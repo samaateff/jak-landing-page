@@ -17,7 +17,7 @@ body{
 }
 .lang-btn{
 
-    line-height: 0.6;
+    /* line-height: 0.6; */
 
 }
 footer span:nth-of-type(2),
@@ -28,4 +28,11 @@ footer span:nth-of-type(3){
 footer span:nth-of-type(1){
     font-weight: bold;
     color: #81428E;
+}
+
+@media (max-width:767px) {
+    .desc-section p{
+        
+        font-size: 15px;
+    }
 }
